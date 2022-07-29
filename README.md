@@ -1,4 +1,4 @@
-# nutrifit
+# KnowEat
 
 A new Flutter project.
 
